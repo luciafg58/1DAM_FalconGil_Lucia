@@ -6,7 +6,7 @@
 
 >Un _programa informático_ o _programa de computadora_ es una __pieza de software__, es decir, una secuencia compleja de instrucciones y procesos orquestados para cumplir una tarea específica en un _computador_ o sistema de computadores. Estos programas pueden ser programas preinstalados en el computador, como el _Sistema Operativo_ que controla todo el funcionamiento del mismo, o pueden ser añadidos adicionalmente por el usuario.
 >
->Por lo general, los programas de computador disponen de cierto margen de recursos del sistema informático mientras se ejecutan, y cumplen roles de todo tipo en el mismo, desde __controlar los recursos y las operaciones internas del computador__, hasta mediar con el _usuario_ y permitirle trabajar, recrearse, explorar _Internet_, etc..
+>Por lo general, los programas de computador disponen de cierto margen de recursos del sistema informático mientras se ejecutan, y cumplen roles de todo tipo en el mismo, desde __controlar los recursos y las operaciones internas del computador__, hasta mediar con el _usuario_ y permitirle trabajar, recrearse, explorar _Internet_, etc.
 >
 >Estos programas son obra de programadores, profesionales de la _informática_ que componen el código matriz (_código fuente_) de cada pieza de software y que son de alguna manera sus “autores”.
 >
